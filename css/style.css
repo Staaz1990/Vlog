@@ -1,0 +1,50 @@
+/*banniere*/
+.head{
+	background-color: #d6d8db;
+}
+#Banniere{
+	height: 200px;
+	border: solid black 2px;
+	background-image: url(Ban+Logo.png);
+	background-size: 100% 100%;
+	background-position: center;
+
+}
+figure{
+	width: 100px;
+	position: relative;
+}
+/*banniere*/
+.general{
+	height: 100%;
+	background-color: #d6d8db;
+	padding-left: 5px;
+
+
+}
+/*NavBar*/
+.navBarre{
+	font-size: 40px;
+	display: flex;
+	border: solid black 2px;
+}
+
+.foot{
+	background-color: #d6d8db;
+}
+#footer{
+	position: relative;
+	top: 100%;
+	margin-bottom: 0%;
+}
+/*NavBar*/
+/*section*/
+.section{
+	border: solid black 2px;
+	height: 900px;
+}
+.aside{
+	height: 100px;
+	border: solid black 2px;
+	
+}
